@@ -1,0 +1,10 @@
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\bin\Debug\Sturtevant.dll
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\bin\Debug\Sturtevant.pdb
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\bin\Debug\Sturtevant.xml
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.vbproj.AssemblyReference.cache
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.Resources.resources
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.vbproj.GenerateResource.cache
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.vbproj.CoreCompileInputs.cache
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.dll
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.xml
+C:\Users\Jair.Lopez\Desktop\Sturtevant\Sturtevant\obj\Debug\Sturtevant.pdb
